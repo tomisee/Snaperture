@@ -2,7 +2,7 @@
 title = "the beginning"
 date = "2025-04-25"
 tags = ["post"]
-draft = true
+draft = false
 +++
 
 Starting this photography hobby has pushed me to go out more — further afield, off my usual paths.
