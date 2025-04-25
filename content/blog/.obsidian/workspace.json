@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitledtest.md",
+                "file": "Front Matter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitledtest"
+              "title": "Front Matter"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitledtest.md",
+                "file": "Front Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitledtest"
+              "title": "Backlinks for Front Matter"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitledtest.md",
+                "file": "Front Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitledtest"
+              "title": "Outgoing links from Front Matter"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitledtest.md"
+                "file": "Front Matter.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitledtest"
+              "title": "Outline of Front Matter"
             }
           }
         ]
@@ -180,7 +180,7 @@
   "active": "5317c5f9c86fe1b5",
   "lastOpenFiles": [
     "templates/Front Matter.md",
-    "Untitledtest.md",
+    "Front Matter.md",
     "Test.md",
     "templates",
     "Untitled 1.md"
