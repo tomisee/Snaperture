@@ -1,6 +1,6 @@
 baseURL = 'https://snaperture.pages.dev'
 languageCode = 'en-GB'
-title = 'Snaperture - things i capture'
+title = 'snaperture - things i capture'
 copyright = 'Copyright © 2025, Tom Harris'
 author = 'Tom Harris'
 theme = 'hugo-bearblog'

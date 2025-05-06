@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rambling on Snaperture - things i capture</title>
-    <link>http://localhost:1313/tags/rambling/</link>
-    <description>Recent content in Rambling on Snaperture - things i capture</description>
+    <title>Rambling on snaperture - things i capture</title>
+    <link>https://snaperture.pages.dev/tags/rambling/</link>
+    <description>Recent content in Rambling on snaperture - things i capture</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <copyright>Copyright © 2025, Tom Harris</copyright>
     <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rambling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snaperture.pages.dev/tags/rambling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the beginning</title>
-      <link>http://localhost:1313/blog/the-beginning/</link>
+      <link>https://snaperture.pages.dev/blog/the-beginning/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/the-beginning/</guid>
+      <guid>https://snaperture.pages.dev/blog/the-beginning/</guid>
       <description>&lt;p&gt;Starting this photography hobby has pushed me to go out more — further afield, off my usual paths.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It’s also had a surprising effect: I’m more aware of &lt;em&gt;things&lt;/em&gt;.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;A &lt;em&gt;thing&lt;/em&gt; could be any&lt;em&gt;&lt;strong&gt;thing&lt;/strong&gt;&lt;/em&gt; — but I’ve started noticing framing, composition, and the mood of a view. I don’t just think &lt;em&gt;“oh look, a tree”&lt;/em&gt; anymore. I see how that tree stands in its space, how it frames the scene, how it affects the feeling of what’s around it.&lt;/p&gt;</description>
     </item>
   </channel>

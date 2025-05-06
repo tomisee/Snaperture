@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on Snaperture - things i capture</title>
-    <link>http://localhost:1313/tags/travel/</link>
-    <description>Recent content in Travel on Snaperture - things i capture</description>
+    <title>Travel on snaperture - things i capture</title>
+    <link>https://snaperture.pages.dev/tags/travel/</link>
+    <description>Recent content in Travel on snaperture - things i capture</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <copyright>Copyright © 2025, Tom Harris</copyright>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snaperture.pages.dev/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>experiences and success</title>
-      <link>http://localhost:1313/blog/experiences-and-success/</link>
+      <link>https://snaperture.pages.dev/blog/experiences-and-success/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/experiences-and-success/</guid>
-      <description>&lt;p&gt;So, a new experience is coming up soon. I was awarded a travel grant (that&amp;rsquo;s a new one by itself). I am going to Stavanger, Norway, as part of my research studies. This would be my first &lt;em&gt;&lt;strong&gt;real&lt;/strong&gt;&lt;/em&gt; trip alone - no one but myself.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;There is a certain freedom in this feeling, although there is definitely a sense of &amp;lsquo;&lt;em&gt;oh dear&lt;/em&gt;&amp;rsquo;.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hopefully it&amp;rsquo;s a success&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Speaking of success, I tend to ask myself: &lt;em&gt;what will success look like?&lt;/em&gt; Will it be some tangible result of my research? Or will it just be some photographs I am happy with. As with everything, the answer is probably in the middle.&lt;/p&gt;</description>
+      <guid>https://snaperture.pages.dev/blog/experiences-and-success/</guid>
+      <description>&lt;p&gt;So, a new experience is coming up soon. I was awarded a travel grant (that&amp;rsquo;s a new one by itself). I am going to Stavanger, Norway, as part of my research studies. This would be my first &lt;em&gt;&lt;strong&gt;real&lt;/strong&gt;&lt;/em&gt; trip alone - no one but myself.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a certain freedom in this feeling, although there is definitely a sense of &amp;lsquo;&lt;em&gt;oh dear&lt;/em&gt;&amp;rsquo;.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hopefully, it&amp;rsquo;s a success&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Speaking of success, I tend to ask myself: &lt;em&gt;what will success look like?&lt;/em&gt; Will it be some tangible result of my research? Or will it just be some photos I am happy with. As with everything, the answer is probably in the middle.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
